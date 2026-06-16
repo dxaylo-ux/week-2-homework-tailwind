@@ -170,6 +170,9 @@
   .mt-\[1\] {
     margin-top: 1;
   }
+  .mt-\[2\] {
+    margin-top: 2;
+  }
   .mt-\[10px\] {
     margin-top: 10px;
   }
@@ -215,6 +218,12 @@
   .h-\[40px\] {
     height: 40px;
   }
+  .h-\[320px\] {
+    height: 320px;
+  }
+  .h-\[380px\] {
+    height: 380px;
+  }
   .h-\[530px\] {
     height: 530px;
   }
@@ -235,6 +244,9 @@
   }
   .w-\[180px\] {
     width: 180px;
+  }
+  .w-\[380\] {
+    width: 380;
   }
   .w-\[380px\] {
     width: 380px;
